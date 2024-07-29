@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Adel Ali Mohammed</h1>
-<h3 align="center">A passionate mobile developer from Egypt</h3>
+<h3 align="center">A passionate mobile application developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-adel-ali&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-adel-ali" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoud-adel-ali" alt="mahmoud-adel-ali" /></a> </p>
+
+- 🔭 I’m currently working on [Quick Mart App](https://github.com/Mahmoud-Adel-Ali/Quick-Mart-E-commerce-App)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
