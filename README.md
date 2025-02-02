@@ -12,7 +12,7 @@
 </p>
 
 ---
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200px"/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="400px"/>
 
 - 🔭 I’m currently working on [Quick Mart App](https://github.com/Mahmoud-Adel-Ali/Quick-Mart-E-commerce-App)  
 - 🌱 I’m currently learning **Mobile App with Flutter**  
