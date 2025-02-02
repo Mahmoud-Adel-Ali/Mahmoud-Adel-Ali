@@ -38,7 +38,35 @@
 
 <br/>
 
+---
+<table align="center">
+  <tr>
+    <td>
+      
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-adel-ali&show_icons=true&locale=en&layout=compact" alt="mahmoud-adel-ali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoud-adel-ali&show_icons=true&locale=en" alt="mahmoud-adel-ali" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-adel-ali&" alt="mahmoud-adel-ali" /></p>
+</td>
+     <td>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoud-adel-ali&show_icons=true&locale=en" alt="mahmoud-adel-ali" /> 
+
+ </td>
+   
+  </tr>
+  <tr>
+    <td>
+
+ <p >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-github-username&theme=github_dark" alt="GitHub Summary Stats">
+</p>
+
+</td>
+    <td>
+      <p ">
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-adel-ali&" alt="mahmoud-adel-ali" /></p>
+
+    </td>
+  </tr>
+</table>
