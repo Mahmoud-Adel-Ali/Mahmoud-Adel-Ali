@@ -14,9 +14,14 @@
 ---
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="400px"/>
 
-- 🔭 I’m currently working on [Quick Mart App](https://github.com/Mahmoud-Adel-Ali/Quick-Mart-E-commerce-App)  
+- 🔭 I’m currently working on [World-Tech Company](https://github.com/worldtech2024)  
 - 🌱 I’m currently learning **Mobile App with Flutter**  
-- 📫 How to reach me: **mahmoudadela413@gmail.com**  
+- 📫 How to reach me: **mahmoudadela413@gmail.com**
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Mahmoud-Adel-Ali?tab=repositories)
+- 💬 Ask me about **Flutter, Firebase, REST APIs, and Clean Architecture**
+- ⚡ Fun fact: I love building apps that combine **beautiful UI** with **strong backend logic**
+- 🎯 Currently focusing on **scalable app development** and **UI/UX improvements**
+- 💼 Portfolio: [mahmoudadel.dev](#) *(add your portfolio link if you have one)*
 
 ---
 
