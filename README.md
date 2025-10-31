@@ -21,7 +21,7 @@
 - 💬 Ask me about **Flutter, Firebase, REST APIs, and Clean Architecture**
 - ⚡ Fun fact: I love building apps that combine **beautiful UI** with **strong backend logic**
 - 🎯 Currently focusing on **scalable app development** and **UI/UX improvements**
-- 💼 Portfolio: [mahmoudadel.dev](#) *(add your portfolio link if you have one)*
+- 💼 Portfolio: [https://mahmoud-adel-ali.github.io/My_Portfolio/]
 
 ---
 
