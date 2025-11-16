@@ -12,16 +12,18 @@
 </p>
 
 ---
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="300px"/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
 
-- 🔭 I’m currently working on [World-Tech Company](https://github.com/worldtech2024)  
-- 🌱 I’m currently learning **Mobile App with Flutter**  
-- 📫 How to reach me: **mahmoudadela413@gmail.com**
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Mahmoud-Adel-Ali?tab=repositories)
-- 💬 Ask me about **Flutter, Firebase, REST APIs, and Clean Architecture**
-- ⚡ Fun fact: I love building apps that combine **beautiful UI** with **strong backend logic**
-- 🎯 Currently focusing on **scalable app development** and **UI/UX improvements**
-- 💼 Portfolio: https://mahmoud-adel-ali.github.io/My_Portfolio/
+### 👋 About Me
+
+- 🔭 I’m currently working at **[World-Tech Company](https://github.com/worldtech2024)**
+- 🌱 I’m expanding my expertise in **Flutter & Mobile App Architecture**
+- 👨‍💻 All of my work is available here: **[My GitHub Repositories](https://github.com/Mahmoud-Adel-Ali?tab=repositories)**
+- 💬 Ask me about **Flutter, Firebase, REST APIs, State Management & Clean Architecture**
+- ⚡ Fun fact: I love building apps that blend **beautiful UI** with **powerful backend logic**
+- 🎯 Currently focusing on **scalable cross-platform development** and **UI/UX improvements**
+- 💼 Portfolio: **https://mahmoud-adel-ali.github.io/My_Portfolio/**
+- 📫 Reach me at: **mahmoudadela413@gmail.com**
 ---
 
 ## 📩 Connect with me
