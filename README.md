@@ -22,7 +22,7 @@
 - 💬 Ask me about **Flutter, Firebase, REST APIs, State Management & Clean Architecture**
 - ⚡ Fun fact: I love building apps that blend **beautiful UI** with **powerful backend logic**
 - 🎯 Currently focusing on **scalable cross-platform development** and **UI/UX improvements**
-- 💼 Portfolio: **https://mahmoud-adel-ali.github.io/My_Portfolio/**
+- 💼 Portfolio: **https://teamhup.net/mahmoud-adel-ali/**
 - 📫 Reach me at: **mahmoudadela413@gmail.com**
 ---
 
