@@ -43,6 +43,7 @@
 
 ## 🛠 Languages and Tools
 <p align="left">
+    <!-- C++ -->
     <a href="https://www.w3schools.com/cpp/" title="C++">
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     </a>
@@ -64,7 +65,32 @@
     <a href="https://dart.dev" title="Dart">
         <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
     </a>
+    <a href="https://kotlinlang.org/" title="Kotlin">
+        <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+    </a>
+    <a href="https://developer.android.com/" title="Android">
+        <img src="https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white"/>
+    </a>
+    <a href="https://firebase.google.com/" title="Firebase">
+        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+    </a>
+    <a href="https://www.sqlite.org/" title="SQLite">
+        <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+    </a>
+    <a href="https://www.mysql.com/" title="MySQL">
+        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    </a>
+    <a href="https://www.postman.com/" title="Postman">
+        <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+    </a>
+    <a href="https://codeforces.com/" title="Codeforces">
+        <img src="https://img.shields.io/badge/codeforces-%23F0F0F0.svg?style=for-the-badge&logo=codeforces&logoColor=blue"/>
+    </a>
+    <a href="https://figma.com" title="Figma">
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+    </a>
 </p>
+
 
 ---
 
