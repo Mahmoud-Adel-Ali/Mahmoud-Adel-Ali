@@ -43,7 +43,6 @@
 
 ## 🛠 Languages and Tools
 <p align="left">
-    <!-- C++ -->
     <a href="https://www.w3schools.com/cpp/" title="C++">
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     </a>
@@ -77,8 +76,11 @@
     <a href="https://www.sqlite.org/" title="SQLite">
         <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
     </a>
-    <a href="https://www.mysql.com/" title="MySQL">
-        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <a href="https://docs.hivedb.dev/" title="Hive">
+        <img src="https://img.shields.io/badge/hive-%23FDEE21.svg?style=for-the-badge&logo=hive&logoColor=black"/>
+    </a>
+    <a href="https://pub.dev/packages/shared_preferences" title="Shared Preferences">
+        <img src="https://img.shields.io/badge/shared_preferences-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
     </a>
     <a href="https://www.postman.com/" title="Postman">
         <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -90,6 +92,7 @@
         <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
     </a>
 </p>
+
 
 
 ---
