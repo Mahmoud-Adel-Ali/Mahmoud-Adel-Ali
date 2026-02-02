@@ -24,6 +24,7 @@
 - 🎯 Currently focusing on **scalable cross-platform development** and **UI/UX improvements**
 - 💼 Portfolio: **https://teamhup.net/mahmoud-adel-ali/**
 - 📫 Reach me at: **mahmoudadela413@gmail.com**
+- 👨‍💻 My Resume is available here: **[My CV Link](https://docs.google.com/document/d/1LBhc0mDu__ficWKm97PJzBHpyu-uThws/edit)**
 ---
 
 ## 📩 Connect with me
