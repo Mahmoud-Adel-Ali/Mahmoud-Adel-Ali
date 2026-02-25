@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Adel Ali Mohamed.</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" 
+       alt="Hello Coders" width="60%" /></p>
 <h3 align="center">A passionate mobile application developer from Egypt.</h3>
 
 <p align="left">
@@ -95,6 +98,19 @@
 </p>
 
 
+---
+
+<!-- Done -->
+## 📊 GitHub Development Analytics
+<p align="center">
+  <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-adel-ali&theme=radical) -->
+  <a href="https://github-profile-summary-cards.vercel">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-adel-ali&theme=radical"
+      style="width: 100%; max-width: 100%;"
+    />
+  </a>
+</p>
 
 ---
 
