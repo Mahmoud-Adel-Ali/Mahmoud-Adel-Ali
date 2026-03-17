@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Adel Ali Mohamed.</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" 
-       alt="Hello Coders" width="60%" /></p>
+
 <h3 align="center">A passionate mobile application developer from Egypt.</h3>
 
 <p align="left">
@@ -14,6 +12,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" 
+       alt="Hello Coders" width="60%" /></p>
+       
 ---
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
 
